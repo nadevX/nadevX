@@ -62,7 +62,7 @@ I specialize in:
 ---
 
 ## 📫 Connect With Me
-- Email: n.amjadbse@gmail.com
+- Email: nadevx@gmail.com
 - LinkedIn: https://www.linkedin.com/in/maliknoumanamjad/
 - GitHub: https://github.com/nadevX 
 
