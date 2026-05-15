@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI+Researcher;NLP+Engineer;Deep+Learning+Explorer;Vision+Transformer+Researcher&center=true&width=800&height=50)
 
----
+![divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## 🌌 About Me
 I am an **MS AI student** focused on building and researching modern machine learning systems.
@@ -15,14 +15,14 @@ I specialize in:
 - 🔍 Explainable AI (XAI)
 - 📊 Data-driven research & experimentation
 
----
+![divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## ⚡ Current Focus
 - NLP-based mental health detection (Twitter + Reddit)
 - Systematic ablation study of Vision Transformers
 - Research paper writing & reproducible ML experiments
 
----
+![divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## 🛠️ Tech Stack
 
@@ -42,7 +42,7 @@ I specialize in:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
----
+![divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## 📊 GitHub Stats (Dark Mode)
 
@@ -52,7 +52,7 @@ I specialize in:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadevX&layout=compact&theme=tokyonight)
 
----
+![divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## 📈 Research Interests
 - Transformer architectures
@@ -60,18 +60,18 @@ I specialize in:
 - Multimodal learning
 - Social media NLP analysis
 
----
+![divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## 📫 Connect With Me
 - Email: nadevx@gmail.com
 - LinkedIn: https://www.linkedin.com/in/maliknoumanamjad/
 - GitHub: https://github.com/nadevX 
 
----
+![divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## 🧠 Motto
 > “Research is not about results, it is about understanding what breaks when you try.”
 
----
+![divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ⭐ *If you like my work, consider following me on GitHub!*
